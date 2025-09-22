@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Remera Negra",
+    "precio": "AR$ 3.500",
+    "img": "https://via.placeholder.com/400x300?text=Remera+Negra"
+  },
+  {
+    "nombre": "Campera Jeans",
+    "precio": "AR$ 9.800",
+    "img": "https://via.placeholder.com/400x300?text=Campera+Jeans"
+  },
+  {
+    "nombre": "Gorra Snapback",
+    "precio": "AR$ 2.200",
+    "img": "https://via.placeholder.com/400x300?text=Gorra+Snapback"
+  }
+]
